@@ -18,6 +18,7 @@ Here are the styling languages/libraries that I'm familiar with
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style = "height:75px; width:75px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style = "height:75px; width:75px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style = "height:75px; width:75px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style = "height:60px; width:60px;"  />
 </p>
 <br>
 <p>
@@ -33,10 +34,19 @@ Non-programming Tools/Knowledge
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" style = "height:75px; width:75px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style = "height:75px; width:75px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style = "height:75px; width:75px;"/>
 </p>
 
 I'm currently working on finishing this course in dCC and then hoping to find a remote job in the field.  I also have a few side-projects that I would like to tackle.  I originally got started in this because a friend did and suggested I try too and I quickly found out that I love writing code.  I love knowing how to make things work and the satisfaction of getting something particularly finicky or difficult to work is a feeling that can't be beat!  Aside from the study of dCC, I spend a lot of time watching and reading tutorials in the langauges that we've been learning to better my understanding in each of them.  
 
+📫 How to reach me:
+<br>
+<a href = "https://www.linkedin.com/in/sierra-paschall-755b4b119/" target="_blank">Linkd In</a>
+<br>
+<a href= "mailto: Arreiskurai@yahoo.com">Email</a>
+<br>
+Discord: Midnight Sighs#5112
+Slack: Sierra 'Midnight' Paschall
 
 <!--
 **Midnight-Sighs/Midnight-Sighs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
