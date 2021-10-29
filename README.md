@@ -9,7 +9,6 @@ These are the languages that I've been learning through the dCC:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style = "height:75px; width:75px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style = "height:75px; width:75px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style = "height:75px; width:75px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style = "height:75px; width:75px;" />
 </p>
 <br>
 <p>
@@ -46,6 +45,7 @@ I'm currently working on finishing this course in dCC and then hoping to find a 
 <a href= "mailto: Arreiskurai@yahoo.com">Email</a>
 <br>
 Discord: Midnight Sighs#5112
+<br>
 Slack: Sierra 'Midnight' Paschall
 
 <!--
