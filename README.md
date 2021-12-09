@@ -36,7 +36,7 @@ Non-programming Tools/Knowledge
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style = "height:75px; width:75px;"/>
 </p>
 
-I'm currently working on finishing this course in dCC and then hoping to find a remote job in the field.  I also have a few side-projects that I would like to tackle.  I originally got started in this because a friend did and suggested I try too and I quickly found out that I love writing code.  I love knowing how to make things work and the satisfaction of getting something particularly finicky or difficult to work is a feeling that can't be beat!  Aside from the study of dCC, I spend a lot of time watching and reading tutorials in the langauges that we've been learning to better my understanding in each of them.  
+I'm hoping now that I'm done with dCC that I can find a great job in the field but also let me work on the few side-projects that I would like to tackle.  I originally got started in this because a friend did and suggested I try too and I quickly found out that I love writing code.  I love knowing how to make things work and the satisfaction of getting something particularly finicky or difficult to work is a feeling that can't be beat!  Aside from the study of dCC, I spend a lot of time watching and reading tutorials in the langauges that we've been learning to better my understanding in each of them.  
 
 📫 How to reach me:
 <br>
