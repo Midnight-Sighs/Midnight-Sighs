@@ -6,7 +6,7 @@ My name is Midnight!  I'm learning Full Stack Development at dev Code Camp (Augu
 <p>
 These are the languages that I've been learning through the dCC:
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style = "height:75px; width:75px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style = "height:75px; width:75px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style = "height:75px; width:75px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style = "height:75px; width:75px;" />
 </p>
@@ -26,6 +26,7 @@ Other Tools/Libraries that help
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style = "height:75px; width:75px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style = "height:75px; width:75px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style = "height:75px; width:75px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style = "height:75px; width:75px;"/>          
 </p>
 <br>
 <p>
@@ -34,6 +35,7 @@ Non-programming Tools/Knowledge
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" style = "height:75px; width:75px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" style = "height:75px; width:75px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style = "height:75px; width:75px;"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" style = "height:75px; width:75px;"/>
 </p>
 
 I'm hoping now that I'm done with dCC that I can find a great job in the field but also let me work on the few side-projects that I would like to tackle.  I originally got started in this because a friend did and suggested I try too and I quickly found out that I love writing code.  I love knowing how to make things work and the satisfaction of getting something particularly finicky or difficult to work is a feeling that can't be beat!  Aside from the study of dCC, I spend a lot of time watching and reading tutorials in the langauges that we've been learning to better my understanding in each of them.  
