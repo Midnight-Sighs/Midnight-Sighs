@@ -42,13 +42,8 @@ I'm hoping now that I'm done with dCC that I can find a great job in the field b
 
 📫 How to reach me:
 <br>
-<a href = "https://www.linkedin.com/in/sierra-paschall-755b4b119/" target="_blank">Linkd In</a>
-<br>
 <a href= "mailto: Arreiskurai@yahoo.com">Email</a>
-<br>
-Discord: Midnight Sighs#5112
-<br>
-Slack: Sierra 'Midnight' Paschall
+
 
 <!--
 **Midnight-Sighs/Midnight-Sighs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
