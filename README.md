@@ -1,8 +1,6 @@
 ### Why Hello!!! 👋
 
-My name is Midnight!  I'm learning Full Stack Development at dev Code Camp (August 2021 to Nov 2021).  I love knowing how things work so I wanted to learn both the front and back end to development.  I especially enjoy the front end, though, because I enjoy making things look nice! 
-
-
+My name is Midnight!  I just wanna keep all the pretty icons from way back when I made this profile.  The icons all togeether make me happy, even if they aren't particularly relevant to anything anymore.  
 <p>
 These are the languages that I've been learning through the dCC:
 <br>
@@ -37,12 +35,9 @@ Non-programming Tools/Knowledge
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style = "height:75px; width:75px;"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" style = "height:75px; width:75px;"/>
 </p>
-
-I'm hoping now that I'm done with dCC that I can find a great job in the field but also let me work on the few side-projects that I would like to tackle.  I originally got started in this because a friend did and suggested I try too and I quickly found out that I love writing code.  I love knowing how to make things work and the satisfaction of getting something particularly finicky or difficult to work is a feeling that can't be beat!  Aside from the study of dCC, I spend a lot of time watching and reading tutorials in the langauges that we've been learning to better my understanding in each of them.  
-
-📫 How to reach me:
-<br>
-<a href= "mailto: Arreiskurai@yahoo.com">Email</a>
+<p>
+ Rawr
+</p>
 
 
 <!--
